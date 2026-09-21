@@ -1,4 +1,4 @@
-# Atividade — Evoluindo a Loja Simples
+# Trabalho — Evoluindo a Loja Simples
 
 ## Objetivo
 
